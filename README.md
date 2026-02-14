@@ -48,4 +48,3 @@ Application Architecture Diagram
 Web application (Spring Boot)
 REST APIs & microservices
 Resume upload & email notifications
-
